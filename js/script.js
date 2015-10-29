@@ -14,6 +14,6 @@ $(document).ready(function(){
 });
 
 $(window).load(function() {
-	$('#preloader').fadeOut();
+	$('#preloaders').fadeOut();
 	$('#page-content').fadeIn();
 });
